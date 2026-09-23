@@ -2,8 +2,6 @@
 
 > 为 Facebook / Meta 短剧出海矩阵批量生产「同母版、不同指纹」的差异化素材。
 
-[English README](README_EN.md)（可选）
-
 ##  已有特性
 
 - **一键启动器**：`一键去重.bat` 自动探测 Python 与 ffmpeg，缺 ffmpeg 时自动 `pip install imageio-ffmpeg`，出错有提示且不闪退。
